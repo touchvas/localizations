@@ -1,0 +1,4 @@
+verification_code: "Your verification code is {{.code}}"
+password_reset_code: "Your password reset code is {{.code}}"
+verification_code_sent: "Verification Code has been send successfully"
+verification_code_limit_reached: "Wait for a few minutes to resend verification code again"
